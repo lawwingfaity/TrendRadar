@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T00:08:11.355776+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-03-06T00:21:57.560275+08:00",
+  "total_titles_processed": 348,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 00时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 00时21分]"
         },
         {
           "title": "特朗普“大发战争财”，借打伊朗搞募款",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 00时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 00时21分]"
         },
         {
           "title": "沆瀣一气！53对47，美国会参议院否决限制特朗普战争权力的议案",
@@ -37,19 +37,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 00时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 00时21分]"
         },
         {
           "title": "特朗普称美国不会与西班牙协同合作，西班牙对北约持敌对态度。（纽约邮报）",
           "url": "https://wallstreetcn.com/livenews/3064584",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 00时21分]"
         },
         {
           "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
@@ -59,8 +60,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 00时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 00时21分]"
         },
         {
           "title": "特朗普政府承诺“护航”原油供应？华尔街和行业专家疾呼：还不够！",
@@ -70,30 +71,54 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 00时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 00时21分]"
         },
         {
           "title": "据纽约邮报：美国总统特朗普表示，美国不会与西班牙“团队合作”。",
           "url": "https://flash.jin10.com/detail/20260305233728911800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 00时21分]"
         },
         {
           "title": "据纽约邮报：美国总统特朗普称西班牙一直敌视北约。",
           "url": "https://flash.jin10.com/detail/20260305233702683800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 00时21分]"
+        },
+        {
+          "title": "美媒：特朗普要求库尔德人协助美国对伊朗行动",
+          "url": "https://wallstreetcn.com/livenews/3064590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时08分"
+          "time_info": "00时21分"
+        },
+        {
+          "title": "美国总统特朗普：我不希望有任何事情打扰内塔尼亚胡，除了与伊朗的战争。",
+          "url": "https://flash.jin10.com/detail/20260306000121802800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
           "title": "特朗普：共和党人必须不惜一切代价全力推进《拯救美国法案》",
@@ -102,7 +127,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
         }
@@ -120,8 +145,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 00时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 00时21分]"
         },
         {
           "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
@@ -131,8 +156,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 00时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 00时21分]"
         },
         {
           "title": "全球航空业ETF跌2.03%，在美股盘初领跌行业ETF，医疗保健ETF跌1.57%，标普日常消费ETF跌1.28%，房地产精选ETF跌1.20%。 标普油气ETF则涨1.7%，北美科技股软件ETF涨2.0%。",
@@ -141,7 +166,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
         },
@@ -152,9 +177,55 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数DXY日内涨超0.50%，现报99.31。",
+          "url": "https://flash.jin10.com/detail/20260305234037343800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 00时21分]"
+        },
+        {
+          "title": "WTI原油扩大涨幅，每桶突破78美元至2025年1月以来最高水平，彭博美元即期指数上涨0.5%至盘中高点。 G-10货币日内全线下跌，澳元以约1%的跌幅领跌。 加元跑赢，在主要货币中跌幅最小。",
+          "url": "https://wallstreetcn.com/livenews/3064589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek TIKTOK 抖音 微博",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "在抖音沉迷读“论文”",
+          "url": "https://www.douyin.com/hot/2419588",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时21分"
         }
       ]
     },
@@ -170,25 +241,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 00时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数DXY日内涨超0.50%，现报99.31。",
-          "url": "https://flash.jin10.com/detail/20260305234037343800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 00时21分]"
         }
       ]
     }
