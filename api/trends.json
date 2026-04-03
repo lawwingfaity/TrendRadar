@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T19:35:46.773342+08:00",
-  "total_titles_processed": 1598,
+  "generated_at": "2026-04-03T20:56:39.476174+08:00",
+  "total_titles_processed": 1731,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "2026 澳门乒乓球世界杯女单 1/8 决赛，孙颖莎 4:2 蒯曼，如何评价这场比赛？",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时58分 ~ 07时33分]"
+        },
+        {
+          "title": "乒乓世界杯 1/8 决赛，王楚钦最终以 4 比 2 战胜小勒布伦，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2023487705594565971",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         }
       ]
     }
