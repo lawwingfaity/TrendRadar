@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T15:48:10.091589+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2026-04-04T16:37:21.087267+08:00",
+  "total_titles_processed": 1101,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时56分 ~ 15时48分]"
+          "appearance_count": 4,
+          "time_info": "[14时56分 ~ 16时37分]"
         },
         {
           "title": "2026 澳门世界杯女单 1/4 决赛，孙颖莎 4-3 险胜高达，如何评价本场比赛？",
@@ -39,11 +40,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时56分 ~ 15时48分]"
+          "appearance_count": 4,
+          "time_info": "[14时56分 ~ 16时37分]"
         }
       ]
     }
