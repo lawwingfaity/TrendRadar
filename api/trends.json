@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T15:28:01.283773+08:00",
-  "total_titles_processed": 1165,
+  "generated_at": "2026-04-17T17:14:18.453372+08:00",
+  "total_titles_processed": 1311,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 15时28分]"
+          "appearance_count": 5,
+          "time_info": "[13时25分 ~ 17时14分]"
         },
         {
           "title": "A股开盘：三大指数涨跌不一",
