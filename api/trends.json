@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-05-27T23:29:29.901230+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2026-05-28T02:23:57.996118+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗男足参加美墨世界杯：比赛日跨境入美，踢完就撤回墨西哥",
-          "url": "https://news.ifeng.com/c/8tRe4GWXi93",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 07时06分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
