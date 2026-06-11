@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-12T03:33:16.974899+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-06-12T06:00:34.313926+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "世界杯 欧洲杯 亚洲杯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2026 年美加墨世界杯，揭幕战，A 组东道主墨西哥 vs 南非，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2048006928291161252",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 06时00分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
