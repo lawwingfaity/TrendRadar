@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T00:15:01.254188+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-13T03:03:14.391545+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时03分]"
         },
         {
           "title": "美加墨世界杯第二场比赛就现空座，票价争议浮出水面",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时03分]"
         }
       ]
     }
