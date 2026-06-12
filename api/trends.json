@@ -1,59 +1,33 @@
 {
-  "generated_at": "2026-06-12T20:16:00.213199+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2026-06-13T00:15:01.254188+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "2026 年美加墨世界杯揭幕战，墨西哥 2-0 南非，全场共出示三张红牌，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2048006928291161252",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "2026 年美加墨世界杯，揭幕战，A 组东道主墨西哥 vs 南非，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2048006928291161252",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时59分 ~ 07时27分]"
-        },
-        {
-          "title": "2026 年世界杯小组赛 A 组，韩国 2-1 逆转捷克，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2048694865580353228",
-          "source": "知乎",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 20时16分]"
-        },
         {
           "title": "当世界杯首次遇上“去交战国比赛”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33356870",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            11,
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时32分 ~ 20时16分]"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 00时15分]"
+        },
+        {
+          "title": "美加墨世界杯第二场比赛就现空座，票价争议浮出水面",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33366841",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 00时15分]"
         }
       ]
     }
