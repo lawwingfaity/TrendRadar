@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-06-13T10:57:54.834873+08:00",
-  "total_titles_processed": 737,
+  "generated_at": "2026-06-13T14:58:13.671203+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美加墨世界杯第二场比赛就现空座，票价争议浮出水面",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33366841",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 14时58分]"
+        },
         {
           "title": "当世界杯首次遇上“去交战国比赛”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33356870",
@@ -19,17 +33,15 @@
           "time_info": "[00时14分 ~ 07时14分]"
         },
         {
-          "title": "美加墨世界杯第二场比赛就现空座，票价争议浮出水面",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33366841",
-          "source": "澎湃新闻",
+          "title": "2026 年世界杯小组赛 D 组，美国 4-1 大胜巴拉圭，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2048794235315250277",
+          "source": "知乎",
           "ranks": [
-            11,
-            10,
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 10时57分]"
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 14时58分]"
         },
         {
           "title": "2026 年世界杯小组赛 D 组，美国 vs 巴拉圭，如何评价本场比赛？",
@@ -38,7 +50,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
