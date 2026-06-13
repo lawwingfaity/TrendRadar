@@ -1,72 +1,7 @@
 {
-  "generated_at": "2026-06-13T23:41:42.496993+08:00",
-  "total_titles_processed": 1421,
+  "generated_at": "2026-06-14T01:19:27.892109+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美加墨世界杯第二场比赛就现空座，票价争议浮出水面",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33366841",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 17时57分]"
-        },
-        {
-          "title": "当世界杯首次遇上“去交战国比赛”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33356870",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 07时14分]"
-        },
-        {
-          "title": "2026 年世界杯小组赛 D 组，美国 4-1 大胜巴拉圭，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2048794235315250277",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 14时58分]"
-        },
-        {
-          "title": "2026 年世界杯小组赛 D 组，美国 vs 巴拉圭，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2048794235315250277",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "2026 年世界杯小组赛 B 组，加拿大 vs 波黑，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2048794015563085404",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
