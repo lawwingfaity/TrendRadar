@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T08:18:15.020856+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-06-14T13:30:37.467158+08:00",
+  "total_titles_processed": 685,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "2026 年世界杯小组赛 B 组，卡塔尔补时绝平，1 比 1 绝平瑞士，如何评价本场比赛？",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时01分 ~ 08时18分]"
+        },
+        {
+          "title": "2026 年世界杯小组赛 D 组，巴西 1 比 1 摩洛哥，无缘开门红，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2048794857506698964",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
         },
         {
           "title": "2026 年世界杯小组赛 B 组，卡塔尔 vs 瑞士，如何评价本场比赛？",
