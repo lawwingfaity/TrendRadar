@@ -1,58 +1,22 @@
 {
-  "generated_at": "2026-06-15T23:49:39.978955+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-06-16T03:44:46.477464+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "2026 年世界杯小组赛 E 组，德国 7-1 库拉索，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2048795584941617877",
+          "title": "2026 年美加墨世界杯小组赛 H 组，西班牙 vs 佛得角，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2049905235586281786",
           "source": "知乎",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 11时45分]"
-        },
-        {
-          "title": "2026 年世界杯小组赛 E 组，德国 vs 库拉索，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2048795584941617877",
-          "source": "知乎",
-          "ranks": [
-            12,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 07时05分]"
-        },
-        {
-          "title": "2026 年世界杯小组赛 F 组，荷兰 vs 日本，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2048795761760891379",
-          "source": "知乎",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时07分 ~ 07时05分]"
-        },
-        {
-          "title": "伊朗足球队抵达美国洛杉矶，备战周一与新西兰的世界杯比赛。",
-          "url": "https://flash.jin10.com/detail/20260615041610447800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时07分"
+          "time_info": "03时44分"
         }
       ]
     }
