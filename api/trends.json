@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-16T14:32:26.542949+08:00",
-  "total_titles_processed": 796,
+  "generated_at": "2026-06-16T20:10:24.955845+08:00",
+  "total_titles_processed": 1014,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.zhihu.com/question/2049905235586281786",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时29分 ~ 14时32分]"
+          "appearance_count": 3,
+          "time_info": "[08时29分 ~ 20时10分]"
         },
         {
           "title": "2026 年美加墨世界杯小组赛 G 组，比利时 vs 埃及，如何评竞价本场比赛？",
@@ -47,7 +48,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -58,7 +59,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -80,7 +81,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         }
