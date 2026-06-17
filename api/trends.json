@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T03:23:20.393232+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-06-18T05:57:59.725517+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "马宁世界杯首场比赛确定",
@@ -13,22 +13,35 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            4
+            4,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 05时57分]"
         },
         {
           "title": "2026 年世界杯小组赛 K 组，葡萄牙 vs 民主刚果，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2050226673845363935",
           "source": "知乎",
           "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 05时57分]"
+        },
+        {
+          "title": "2026 年世界杯小组赛 L 组，英格兰 vs 克罗地亚，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2050579215670678850",
+          "source": "知乎",
+          "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时23分"
+          "time_info": "05时57分"
         }
       ]
     }
