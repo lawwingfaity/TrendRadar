@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T05:57:59.725517+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2026-06-18T07:25:02.609874+08:00",
+  "total_titles_processed": 606,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             4,
-            22
+            22,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 05时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 07时25分]"
         },
         {
           "title": "2026 年世界杯小组赛 K 组，葡萄牙 vs 民主刚果，如何评价本场比赛？",
@@ -29,19 +30,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 05时57分]"
+          "appearance_count": 4,
+          "time_info": "[03时23分 ~ 07时25分]"
         },
         {
           "title": "2026 年世界杯小组赛 L 组，英格兰 vs 克罗地亚，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2050579215670678850",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时57分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时57分 ~ 07时25分]"
         }
       ]
     }
