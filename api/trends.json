@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T16:42:09.603481+08:00",
-  "total_titles_processed": 1032,
+  "generated_at": "2026-06-18T20:22:07.234774+08:00",
+  "total_titles_processed": 1218,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "马宁世界杯首场比赛确定",
@@ -78,6 +78,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时31分 ~ 11时32分]"
+        },
+        {
+          "title": "时隔24年中国裁判再次主哨世界杯，马宁将担任小组赛第二轮比赛主裁判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33401814",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
         }
       ]
     }
