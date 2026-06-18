@@ -1,94 +1,22 @@
 {
-  "generated_at": "2026-06-18T20:22:07.234774+08:00",
-  "total_titles_processed": 1218,
+  "generated_at": "2026-06-19T00:32:36.397545+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
         {
-          "title": "马宁世界杯首场比赛确定",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%AE%81%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E5%9C%BA%E6%AF%94%E8%B5%9B%E7%A1%AE%E5%AE%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            4,
-            22,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 11时32分]"
-        },
-        {
-          "title": "世界杯再出冷门！葡萄牙 1-1 战平民主刚果，C 罗哑火，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2050226673845363935",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
-        },
-        {
-          "title": "2026 年世界杯小组赛 K 组，葡萄牙 vs 民主刚果，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2050226673845363935",
-          "source": "知乎",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时23分 ~ 07时25分]"
-        },
-        {
-          "title": "2026 年世界杯小组赛 L 组，英格兰 vs 克罗地亚，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2050579215670678850",
-          "source": "知乎",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时57分 ~ 07时25分]"
-        },
-        {
-          "title": "世界杯再出冷门，葡萄牙 1-1 战平民主刚果，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2050226673845363935",
-          "source": "知乎",
+          "title": "世界杯小组赛第一轮比赛结束",
+          "url": "https://www.douyin.com/hot/2539722",
+          "source": "抖音",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 16时42分]"
-        },
-        {
-          "title": "2026 年世界杯小组赛 L 组，英格兰 4-2 克罗地亚，凯恩双响贝林破门，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2050579215670678850",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
-        },
-        {
-          "title": "时隔24年中国裁判再次主哨世界杯，马宁将担任小组赛第二轮比赛主裁判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33401814",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "00时32分"
         }
       ]
     }
