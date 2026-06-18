@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T00:32:36.397545+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-19T04:28:02.165595+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "世界杯小组赛第一轮比赛结束",
@@ -15,8 +15,30 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 04时28分]"
+        },
+        {
+          "title": "2026 年世界杯小组赛 A 组，捷克 vs 南非，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2050228634908976991",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时28分]"
+        },
+        {
+          "title": "美国世界杯比赛现场美食",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AF%94%E8%B5%9B%E7%8E%B0%E5%9C%BA%E7%BE%8E%E9%A3%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时28分]"
         }
       ]
     }
