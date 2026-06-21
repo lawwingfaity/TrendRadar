@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T03:25:51.890871+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-06-22T05:12:04.317718+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 05时12分]"
         },
         {
           "title": "2026 年世界杯小组赛 H 组，西班牙 vs 沙特阿拉伯，如何评价本场比赛？",
@@ -37,11 +37,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时46分 ~ 05时12分]"
         }
       ]
     }
