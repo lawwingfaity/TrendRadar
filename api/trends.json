@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T19:43:43.628548+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2026-06-21T22:02:37.221360+08:00",
+  "total_titles_processed": 1128,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "2026 年世界杯小组赛 F 组，突尼斯 0-4 日本，如何评价本场比赛？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 19时43分]"
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 22时02分]"
         },
         {
           "title": "2026 世界杯小组赛 E 组，厄瓜多尔 0-0 库拉索，马宁首次主哨，全场共出 6 黄，如何评价本场比赛？",
@@ -66,6 +66,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时26分 ~ 19时43分]"
+        },
+        {
+          "title": "世界杯史上第1000场比赛，日本4比0突尼斯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33423457",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
         },
         {
           "title": "2026 年世界杯小组赛 E 组，德国 2-1 科特迪瓦，翁达夫替补绝杀 + 双响，如何评价本场比赛？",
