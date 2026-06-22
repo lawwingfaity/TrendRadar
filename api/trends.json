@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T03:23:13.601289+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-23T06:01:37.743917+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2052060271871353728",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 06时01分]"
         },
         {
           "title": "哈兰德迎世界杯小组赛第二轮比赛",
@@ -26,8 +27,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 06时01分]"
         }
       ]
     }
