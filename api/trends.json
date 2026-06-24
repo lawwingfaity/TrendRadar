@@ -1,59 +1,7 @@
 {
-  "generated_at": "2026-06-24T21:18:30.252307+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2026-06-25T00:15:47.238649+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "世界杯小组赛 K 组，葡萄牙 vs 乌兹别克斯坦，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2052725785111311031",
-          "source": "知乎",
-          "ranks": [
-            14,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时08分 ~ 07时06分]"
-        },
-        {
-          "title": "世界杯小组赛 K 组，葡萄牙 5-0 乌兹别克斯坦，C 罗双响创纪录，B 费造两球，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2052725785111311031",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "美加墨世界杯的安全与挑战：当足球比赛遇到雷暴预警",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33435654",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 07时06分]"
-        },
-        {
-          "title": "据美联社：美国国土安全部发言人表示，美方放宽了对伊朗世界杯代表队的限制，允许该队在下一场比赛前两天启程前往比赛场地。",
-          "url": "https://flash.jin10.com/detail/20260624023107946800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
