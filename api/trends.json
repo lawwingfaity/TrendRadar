@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T07:06:05.027309+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-06-24T10:50:55.127180+08:00",
+  "total_titles_processed": 808,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "世界杯小组赛 K 组，葡萄牙 vs 乌兹别克斯坦，如何评价本场比赛？",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时08分 ~ 07时06分]"
+        },
+        {
+          "title": "世界杯小组赛 K 组，葡萄牙 5-0 乌兹别克斯坦，C 罗双响创纪录，B 费造两球，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2052725785111311031",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         },
         {
           "title": "美加墨世界杯的安全与挑战：当足球比赛遇到雷暴预警",
