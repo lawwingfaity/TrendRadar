@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T13:03:06.240599+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2026-06-25T16:55:24.931068+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2053071920468439136",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 16时55分]"
         },
         {
           "title": "如何看待本次美国世界杯场馆没有遮雨棚，比赛期间暴雨所有观众和媒体都被惨浇，不装顶棚是因为气候还是成本？",
@@ -31,22 +32,23 @@
           "time_info": "[08时06分 ~ 13时03分]"
         },
         {
+          "title": "头条世界杯｜50场比赛打进148球，B组基本锁定三队出线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33449066",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 16时55分]"
+        },
+        {
           "title": "世界杯小组赛 C 组，巴西 3-0 战胜苏格兰头名出线，内马尔替补登场，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2053071755242103665",
           "source": "知乎",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
-        },
-        {
-          "title": "头条世界杯｜50场比赛打进148球，B组基本锁定三队出线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33449066",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
