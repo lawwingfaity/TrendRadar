@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T19:38:27.426215+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2026-06-25T22:23:02.511784+08:00",
+  "total_titles_processed": 1466,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "ranks": [
             19,
             20,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时02分 ~ 19时38分]"
+          "appearance_count": 6,
+          "time_info": "[13时02分 ~ 22时23分]"
         },
         {
           "title": "世界杯小组赛 C 组，巴西 3-0 战胜苏格兰头名出线，内马尔替补登场，如何评价本场比赛？",
