@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T10:55:05.525497+08:00",
-  "total_titles_processed": 754,
+  "generated_at": "2026-06-26T14:53:13.488530+08:00",
+  "total_titles_processed": 961,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,23 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "世界杯小组赛 F 组，日本 1-1 瑞典，埃兰加精彩世界波，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2053452665523279859",
+          "source": "知乎",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 14时53分]"
+        },
+        {
           "title": "世界杯小组赛 E 组，厄瓜多尔 2-1 逆转德国，小组第三出线，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2053447637047818182",
           "source": "知乎",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时54分 ~ 10时55分]"
-        },
-        {
-          "title": "世界杯小组赛 F 组，日本 1-1 瑞典，埃兰加精彩世界波，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2053452665523279859",
-          "source": "知乎",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 2,
