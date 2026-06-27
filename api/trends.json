@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T15:46:55.655849+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-06-27T18:03:26.181714+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 15时46分]"
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 18时03分]"
         },
         {
           "title": "世界杯小组赛 I 组，法国 4 比 1 挪威，登贝莱半场帽子戏法，哈兰德没登场，姆巴佩没进球，如何评价本场比赛？",
@@ -60,7 +60,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
