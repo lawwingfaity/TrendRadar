@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T18:03:26.181714+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2026-06-27T20:07:37.775516+08:00",
+  "total_titles_processed": 1238,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2053875905722672839",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 18时03分]"
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 20时07分]"
         },
         {
           "title": "世界杯小组赛 I 组，法国 4 比 1 挪威，登贝莱半场帽子戏法，哈兰德没登场，姆巴佩没进球，如何评价本场比赛？",
