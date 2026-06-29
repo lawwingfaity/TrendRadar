@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T08:05:34.484503+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-06-29T13:28:09.178407+08:00",
+  "total_titles_processed": 789,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            16
+            16,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 08时05分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 13时28分]"
         },
         {
           "title": "世界杯淘汰赛 1/16 决赛，加拿大 1-0 绝杀南非，首次闯入 16 强，如何评价本场比赛？",
@@ -26,7 +27,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         }
