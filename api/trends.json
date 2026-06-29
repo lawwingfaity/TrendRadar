@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T03:51:51.928226+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-06-30T05:22:56.593062+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "世界杯 1/16 决赛，巴西 vs 日本，如何评价本场比赛？",
@@ -13,11 +13,23 @@
           "source": "知乎",
           "ranks": [
             16,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时32分 ~ 03时51分]"
+          "appearance_count": 4,
+          "time_info": "[01时32分 ~ 05时22分]"
+        },
+        {
+          "title": "2026 年美加墨世界杯世界杯 1/16 决赛巴西 2:1 日本，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2055094039184249812",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
         }
       ]
     }
