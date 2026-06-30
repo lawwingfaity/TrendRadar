@@ -1,63 +1,7 @@
 {
-  "generated_at": "2026-06-30T22:10:29.370372+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2026-07-01T01:03:52.642809+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "大冷门！德国点球大战 4-5 不敌巴拉圭遭淘汰，止步世界杯 32 强，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2054885142036833997",
-          "source": "知乎",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时15分 ~ 19时43分]"
-        },
-        {
-          "title": "世界杯 1/16 决赛，巴西 vs 日本，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2054881323324651014",
-          "source": "知乎",
-          "ranks": [
-            16,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时32分 ~ 06时53分]"
-        },
-        {
-          "title": "世界杯 1/16 决赛，巴西 2-1 绝杀日本，日本队史世界杯淘汰赛仍 0 胜，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2054881323324651014",
-          "source": "知乎",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 12时15分]"
-        },
-        {
-          "title": "2026 年美加墨世界杯世界杯 1/16 决赛巴西 2:1 日本，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2055094039184249812",
-          "source": "知乎",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时53分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
