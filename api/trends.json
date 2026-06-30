@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T05:25:53.231448+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-07-01T07:08:31.485558+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "世界杯 1/16 决赛，科特迪瓦 vs 挪威，如何评价本场比赛？",
@@ -13,11 +13,23 @@
           "source": "知乎",
           "ranks": [
             16,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时49分 ~ 05时25分]"
+          "appearance_count": 3,
+          "time_info": "[03时49分 ~ 07时08分]"
+        },
+        {
+          "title": "世界杯 1/16 决赛，法国 vs 瑞典，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2055237822475408966",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时08分"
         }
       ]
     }
