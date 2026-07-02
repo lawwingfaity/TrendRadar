@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T17:59:21.686707+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2026-07-02T20:10:53.816974+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             1,
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时50分 ~ 17时59分]"
+          "appearance_count": 5,
+          "time_info": "[10时50分 ~ 20时10分]"
         },
         {
           "title": "世界杯 1/16 决赛，英格兰 vs 刚果金，如何评价本场比赛？",
