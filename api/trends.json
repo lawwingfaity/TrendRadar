@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T07:10:28.959577+08:00",
-  "total_titles_processed": 557,
+  "generated_at": "2026-07-02T10:51:07.262987+08:00",
+  "total_titles_processed": 775,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "世界杯 1/16 决赛，英格兰 vs 刚果金，如何评价本场比赛？",
@@ -21,13 +21,35 @@
           "time_info": "[01时11分 ~ 07时10分]"
         },
         {
+          "title": "世界杯淘汰赛德国与巴拉圭比赛看台出现大量空座，具体原因是什么？",
+          "url": "https://www.zhihu.com/question/2055271796257939479",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 10时51分]"
+        },
+        {
+          "title": "世界杯 1/16 决赛，英格兰 2-1 逆转刚果金，凯恩梅开二度，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2055624616605922427",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 10时51分]"
+        },
+        {
           "title": "世界杯 1/16 决赛，比利时 vs 塞内加尔，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2055629959377444878",
           "source": "知乎",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         }
