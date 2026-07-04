@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T12:32:22.044845+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2026-07-04T15:42:39.358384+08:00",
+  "total_titles_processed": 851,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.zhihu.com/question/2056419001685599487",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 15时42分]"
         },
         {
           "title": "世界杯 1/16 决赛，埃及点球 5-3 澳大利亚，澳大利亚 119 分钟换门将，埃及 4 罚全中，如何评价本场比赛？",
@@ -36,7 +37,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
