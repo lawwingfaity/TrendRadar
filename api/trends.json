@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-07-05T06:55:20.554679+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-07-05T07:59:27.239264+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "世界杯 欧洲杯 亚洲杯",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "火药味拉满！世界杯 1/8 决赛，法国 1-0 巴拉圭，双方冲突不断，姆巴佩点射杜埃造点，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2056707285326325305",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "世界杯 1/8 决赛，摩洛哥 3-0 加拿大，乌纳希双响迪亚斯两助，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2056707078798799209",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
