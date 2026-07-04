@@ -1,72 +1,7 @@
 {
-  "generated_at": "2026-07-04T23:58:51.608950+08:00",
-  "total_titles_processed": 1257,
+  "generated_at": "2026-07-05T01:09:11.828631+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "头条世界杯｜不用进球就能统治比赛，亚马尔帮西班牙重回热门",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33508569",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 06时11分]"
-        },
-        {
-          "title": "极限过关！世界杯 1/16 决赛，阿根廷 3-2 险胜佛得角，佛得角门将屡次救险再次封神，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2056419001685599487",
-          "source": "知乎",
-          "ranks": [
-            1,
-            6,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时32分 ~ 22时26分]"
-        },
-        {
-          "title": "世界杯 1/16 决赛，埃及点球 5-3 澳大利亚，澳大利亚 119 分钟换门将，埃及 4 罚全中，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2056418799423680843",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "世界杯 1/16 决赛，澳大利亚 vs 埃及，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2056418799423680843",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "世界杯1/8决赛首个比赛日前瞻",
-          "url": "https://www.toutiao.com/trending/7658659516912766500/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
