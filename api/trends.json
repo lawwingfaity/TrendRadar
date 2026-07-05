@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T15:21:58.095439+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2026-07-05T18:08:39.646469+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时59分 ~ 15时21分]"
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 18时08分]"
         },
         {
           "title": "世界杯 1/8 决赛，摩洛哥 3-0 加拿大，乌纳希双响迪亚斯两助，如何评价本场比赛？",
