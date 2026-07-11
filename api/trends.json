@@ -1,51 +1,12 @@
 {
-  "generated_at": "2026-07-11T23:52:13.466937+08:00",
-  "total_titles_processed": 1474,
+  "generated_at": "2026-07-12T00:53:12.079645+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "世界杯 1/4 决赛，西班牙 vs 比利时，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2058965616472450804",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10,
-            9,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 06时59分]"
-        },
-        {
-          "title": "德布劳内等比利时黄金一代结束了他们最后的世界杯旅途，他们本届比赛表现怎么样？你对黄金一代有哪些记忆？",
-          "url": "https://www.zhihu.com/question/2059159511039055807",
-          "source": "知乎",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时10分 ~ 21时28分]"
-        },
-        {
-          "title": "西班牙 2-1 比利时晋级世界杯半决赛，梅里诺替补绝杀，拉门斯送礼，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2058965616472450804",
-          "source": "知乎",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 12时10分]"
-        },
         {
           "title": "世界杯 1/4 决赛，挪威 vs 英格兰，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2059262837763961209",
@@ -55,7 +16,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时51分 ~ 23时52分]"
+          "time_info": "[00时52分 ~ 00时53分]"
         }
       ]
     }
