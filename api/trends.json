@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T08:03:27.238969+08:00",
-  "total_titles_processed": 607,
+  "generated_at": "2026-07-11T12:10:31.143121+08:00",
+  "total_titles_processed": 798,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "世界杯 1/4 决赛，西班牙 vs 比利时，如何评价本场比赛？",
@@ -27,11 +27,23 @@
           "url": "https://www.zhihu.com/question/2058965616472450804",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 12时10分]"
+        },
+        {
+          "title": "德布劳内等比利时黄金一代结束了他们最后的世界杯旅途，他们本届比赛表现怎么样？你对黄金一代有哪些记忆？",
+          "url": "https://www.zhihu.com/question/2059159511039055807",
+          "source": "知乎",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时03分"
+          "time_info": "12时10分"
         }
       ]
     }
