@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T19:02:23.426587+08:00",
-  "total_titles_processed": 1171,
+  "generated_at": "2026-07-11T19:59:55.016104+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
@@ -23,6 +23,18 @@
           "time_info": "[00时52分 ~ 06时59分]"
         },
         {
+          "title": "德布劳内等比利时黄金一代结束了他们最后的世界杯旅途，他们本届比赛表现怎么样？你对黄金一代有哪些记忆？",
+          "url": "https://www.zhihu.com/question/2059159511039055807",
+          "source": "知乎",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时10分 ~ 19时59分]"
+        },
+        {
           "title": "西班牙 2-1 比利时晋级世界杯半决赛，梅里诺替补绝杀，拉门斯送礼，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2058965616472450804",
           "source": "知乎",
@@ -33,18 +45,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时03分 ~ 12时10分]"
-        },
-        {
-          "title": "德布劳内等比利时黄金一代结束了他们最后的世界杯旅途，他们本届比赛表现怎么样？你对黄金一代有哪些记忆？",
-          "url": "https://www.zhihu.com/question/2059159511039055807",
-          "source": "知乎",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时10分 ~ 19时02分]"
         }
       ]
     }
