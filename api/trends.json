@@ -1,124 +1,33 @@
 {
-  "generated_at": "2026-07-12T23:56:18.568555+08:00",
-  "total_titles_processed": 1348,
+  "generated_at": "2026-07-13T00:55:40.046848+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "世界杯 1/4 决赛，挪威 vs 英格兰，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2059262837763961209",
-          "source": "知乎",
-          "ranks": [
-            6,
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 07时51分]"
-        },
         {
           "title": "世界前四齐聚世界杯四强（附对阵图、比赛时间）",
           "url": "https://m.thepaper.cn/newsDetail_forward_33569729",
           "source": "澎湃新闻",
           "ranks": [
-            6,
-            4,
-            3,
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时10分 ~ 23时56分]"
-        },
-        {
-          "title": "世界杯 1/4 决赛，阿根廷加时 3-1 瑞士进 4 强，小蜘蛛破门恩博洛假摔染红，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2059262997873124815",
-          "source": "知乎",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 19时56分]"
+          "appearance_count": 1,
+          "time_info": "00时55分"
         },
         {
           "title": "哈兰德以 5 场比赛 7 个进球告别本届世界杯，这一成绩如何？他给你留下哪些令人印象深刻的瞬间？",
           "url": "https://www.zhihu.com/question/2059562876868583536",
           "source": "知乎",
           "ranks": [
-            20,
-            19,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时10分 ~ 23时56分]"
-        },
-        {
-          "title": "世界杯 1/4 决赛，贝林厄姆补射破门连场双响，英格兰 2-1 反超挪威，尼兰扑救失误，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2059262837763961209",
-          "source": "知乎",
-          "ranks": [
-            1
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时21分"
-        },
-        {
-          "title": "世界杯半决赛，阿根廷将和英格兰复刻英阿大战，两队历史上有何恩怨，对本场比赛你有什么期待？",
-          "url": "https://www.zhihu.com/question/2059608160646555311",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16,
-            13,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时53分 ~ 21时11分]"
-        },
-        {
-          "title": "世界杯 1/4 决赛，阿根廷 vs 瑞士， 如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2059262997873124815",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时21分"
-        },
-        {
-          "title": "世界杯 1/4 决赛，贝林厄姆补射破门连场双响，英格兰 2-1 逆转挪威，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2059262837763961209",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "世界杯半决赛对阵图和比赛时间",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%AF%B9%E9%98%B5%E5%9B%BE%E5%92%8C%E6%AF%94%E8%B5%9B%E6%97%B6%E9%97%B4",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时10分"
+          "time_info": "00时55分"
         }
       ]
     }
