@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T19:56:18.560689+08:00",
-  "total_titles_processed": 1117,
+  "generated_at": "2026-07-12T21:11:04.654072+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时10分 ~ 19时56分]"
+          "appearance_count": 5,
+          "time_info": "[16时10分 ~ 21时11分]"
         },
         {
           "title": "世界杯 1/4 决赛，贝林厄姆补射破门连场双响，英格兰 2-1 反超挪威，尼兰扑救失误，如何评价本场比赛？",
@@ -58,6 +59,21 @@
           "time_info": "10时21分"
         },
         {
+          "title": "世界杯半决赛，阿根廷将和英格兰复刻英阿大战，两队历史上有何恩怨，对本场比赛你有什么期待？",
+          "url": "https://www.zhihu.com/question/2059608160646555311",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16,
+            13,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时53分 ~ 21时11分]"
+        },
+        {
           "title": "世界杯 1/4 决赛，阿根廷 vs 瑞士， 如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2059262997873124815",
           "source": "知乎",
@@ -69,30 +85,17 @@
           "time_info": "10时21分"
         },
         {
-          "title": "世界杯半决赛，阿根廷将和英格兰复刻英阿大战，两队历史上有何恩怨，对本场比赛你有什么期待？",
-          "url": "https://www.zhihu.com/question/2059608160646555311",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 19时56分]"
-        },
-        {
           "title": "哈兰德以 5 场比赛 7 个进球告别本届世界杯，这一成绩如何？他给你留下哪些令人印象深刻的瞬间？",
           "url": "https://www.zhihu.com/question/2059562876868583536",
           "source": "知乎",
           "ranks": [
             20,
-            19
+            19,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时10分 ~ 19时56分]"
+          "appearance_count": 5,
+          "time_info": "[16时10分 ~ 21时11分]"
         },
         {
           "title": "世界杯 1/4 决赛，贝林厄姆补射破门连场双响，英格兰 2-1 逆转挪威，如何评价本场比赛？",
