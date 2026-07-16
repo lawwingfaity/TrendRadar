@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T16:06:20.923403+08:00",
-  "total_titles_processed": 1216,
+  "generated_at": "2026-07-16T18:55:34.247088+08:00",
+  "total_titles_processed": 1398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "世界杯半决赛，英格兰 vs 阿根廷，如何评价本场比赛？",
@@ -64,6 +64,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时37分 ~ 16时06分]"
+        },
+        {
+          "title": "2026 世界杯决赛，西班牙 vs 阿根廷，这场比赛结果会如何，是西班牙时隔多年再问鼎，还是阿根廷成功卫冕？",
+          "url": "https://www.zhihu.com/question/2060979028366988938",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         }
       ]
     }
