@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T20:18:45.196355+08:00",
-  "total_titles_processed": 1519,
+  "generated_at": "2026-07-16T22:58:10.881731+08:00",
+  "total_titles_processed": 1681,
   "failed_sources": [],
   "trends": [
     {
@@ -43,6 +43,19 @@
           "time_info": "10时11分"
         },
         {
+          "title": "2026 世界杯决赛，西班牙 vs 阿根廷，这场比赛结果会如何，是西班牙时隔多年再问鼎，还是阿根廷成功卫冕？",
+          "url": "https://www.zhihu.com/question/2060979028366988938",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 22时58分]"
+        },
+        {
           "title": "2026 年美加墨世界杯世界杯半决赛英格兰 1:2 阿根廷，如何评价这场比赛？",
           "url": "https://www.zhihu.com/question/2060922037816799584",
           "source": "知乎",
@@ -64,18 +77,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时37分 ~ 16时06分]"
-        },
-        {
-          "title": "2026 世界杯决赛，西班牙 vs 阿根廷，这场比赛结果会如何，是西班牙时隔多年再问鼎，还是阿根廷成功卫冕？",
-          "url": "https://www.zhihu.com/question/2060979028366988938",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 20时18分]"
         }
       ]
     }
