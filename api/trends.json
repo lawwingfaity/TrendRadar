@@ -1,82 +1,22 @@
 {
-  "generated_at": "2026-07-16T22:58:10.881731+08:00",
-  "total_titles_processed": 1681,
+  "generated_at": "2026-07-17T00:17:18.421923+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "世界杯半决赛，英格兰 vs 阿根廷，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2060732712101716234",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 06时56分]"
-        },
-        {
-          "title": "世界杯半决赛，阿根廷 2-1 英格兰，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2060732712101716234",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
-          "title": "世界杯半决赛，阿根廷 7 分钟两球 2-1 逆转英格兰，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2060732712101716234",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
         {
           "title": "2026 世界杯决赛，西班牙 vs 阿根廷，这场比赛结果会如何，是西班牙时隔多年再问鼎，还是阿根廷成功卫冕？",
           "url": "https://www.zhihu.com/question/2060979028366988938",
           "source": "知乎",
           "ranks": [
-            10,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时55分 ~ 22时58分]"
-        },
-        {
-          "title": "2026 年美加墨世界杯世界杯半决赛英格兰 1:2 阿根廷，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2060922037816799584",
-          "source": "知乎",
-          "ranks": [
-            5
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
-          "title": "世界杯半决赛，阿根廷 7 分钟两球 2-1 绝杀英格兰，劳塔罗恩佐破门，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2060732712101716234",
-          "source": "知乎",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时37分 ~ 16时06分]"
+          "time_info": "00时17分"
         }
       ]
     }
