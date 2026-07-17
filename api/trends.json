@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T13:38:44.162218+08:00",
-  "total_titles_processed": 997,
+  "generated_at": "2026-07-17T16:03:14.164749+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "2026 世界杯决赛，西班牙 vs 阿根廷，这场比赛结果会如何，是西班牙时隔多年再问鼎，还是阿根廷成功卫冕？",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时17分 ~ 05时09分]"
+        },
+        {
+          "title": "阿根廷三场世界杯比赛都在即将终场前逆转赛局，这是啥战术安排吗？他们是怎么做到稳住心态逆风翻盘的？",
+          "url": "https://www.zhihu.com/question/2061173953381361461",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 16时03分]"
         }
       ]
     }
