@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-18T00:12:19.815941+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-18T02:02:38.445048+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "世界杯 欧洲杯 亚洲杯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "EWC 英雄联盟电竞世界杯淘汰赛 T1 2:0 战胜 MSI 冠军 HLE，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2061556273808775032",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
