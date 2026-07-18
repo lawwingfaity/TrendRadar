@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-07-19T01:54:32.747420+08:00",
-  "total_titles_processed": 360,
-  "failed_sources": [
-    "toutiao"
-  ],
+  "generated_at": "2026-07-19T02:57:43.787615+08:00",
+  "total_titles_processed": 393,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
@@ -18,8 +16,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 01时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 02时57分]"
         }
       ]
     }
