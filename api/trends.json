@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T06:44:57.093957+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-07-19T07:50:56.700677+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "世界杯季军赛，法国 vs 英格兰，如何评价本场比赛？",
@@ -21,6 +21,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时52分 ~ 06时44分]"
+        },
+        {
+          "title": "世界杯季军赛，法国 4-6 英格兰，萨卡戴帽，姆巴佩双响创纪录，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2061740947776579179",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
         }
       ]
     }
