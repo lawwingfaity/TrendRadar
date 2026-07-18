@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-07-19T00:53:16.735887+08:00",
-  "total_titles_processed": 310,
-  "failed_sources": [],
+  "generated_at": "2026-07-19T01:54:32.747420+08:00",
+  "total_titles_processed": 360,
+  "failed_sources": [
+    "toutiao"
+  ],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
@@ -12,11 +14,12 @@
           "url": "https://www.zhihu.com/question/2061740947776579179",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 00时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 01时54分]"
         }
       ]
     }
