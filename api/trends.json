@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T06:47:16.416995+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2026-07-20T07:54:08.689302+08:00",
+  "total_titles_processed": 655,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "美加墨世界杯决赛，西班牙 vs 阿根廷，如何评价本场比赛？",
@@ -29,6 +29,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时46分 ~ 06时47分]"
+        },
+        {
+          "title": "西班牙 1-0 战胜阿根廷，夺得美加墨世界杯冠军，费兰 - 托雷斯加时赛打入制胜球，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2062177729605284253",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 07时54分]"
+        },
+        {
+          "title": "2026 年世界杯决赛，恩佐下半场两黄变一红被罚下，对此你怎么看，这是否是本场比赛的转折点？",
+          "url": "https://www.zhihu.com/question/2062406274260492889",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 07时54分]"
         }
       ]
     }
