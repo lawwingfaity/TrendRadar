@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T05:47:56.481041+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2026-07-20T06:47:16.416995+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美加墨世界杯决赛，西班牙 vs 阿根廷，如何评价本场比赛？",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时01分 ~ 05时47分]"
+        },
+        {
+          "title": "美加墨世界杯决赛，西班牙 1-0 加时胜阿根廷，费兰 - 托雷斯打入加时制胜球，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2062177729605284253",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 06时47分]"
         }
       ]
     }
