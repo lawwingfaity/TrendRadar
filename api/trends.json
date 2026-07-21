@@ -1,38 +1,7 @@
 {
-  "generated_at": "2026-07-21T23:41:02.647186+08:00",
-  "total_titles_processed": 1583,
+  "generated_at": "2026-07-22T01:15:24.457684+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "西班牙中场罗德里获 2026 世界杯金球奖，怎样评价他在本届比赛中的表现？对于西班牙队有多重要？",
-          "url": "https://www.zhihu.com/question/2062428579145540871",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时42分]"
-        },
-        {
-          "title": "数据复盘｜104场比赛后，48队世界杯改变了什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33503168",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时46分 ~ 21时29分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
